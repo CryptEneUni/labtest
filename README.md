@@ -1,4 +1,4 @@
-![workflow](https://github.com/CryptEneUni/labtest/actions/workflows/main.yml/badge.svg)
-![LICENSE](https://img.shields.io/github/license/CryptEneUni/devops.svg?style=flat-square)
-![Releases](https://img.shields.io/github/release/CryptEneUni/devops/all.svg?style=flat-square)
+![workflow](https://img.shields.io/github/actions/workflow/status/CryptEneUni/labtest/main.yml)
+![GitHub last commit](https://img.shields.io/github/last-commit/CryptEneUni/labtest)
 ![GitHub](https://img.shields.io/github/license/CryptEneUni/labtest)
+
